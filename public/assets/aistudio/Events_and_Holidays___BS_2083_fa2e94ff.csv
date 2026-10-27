@@ -1,0 +1,180 @@
+month,day,event,event_devanagari,is_holiday,category,scope
+1,1,Mesh Sankranti,मेष सङ्क्रान्ति,0,religious,hindu
+1,1,Naya Barsha,नयाँ वर्ष,1,national,national
+1,4,Matatirtha Aunsi,मातातीर्थ औंसी,0,cultural,hindu
+1,8,Mangal Chaturthi,मङ्गल चतुर्थी,0,cultural,hindu
+1,11,Loktantra Diwas,लोकतन्त्र दिवस,0,national,national
+1,14,Mohini Ekadashi,मोहिनी एकादशी,0,religious,hindu
+1,18,Buddha Jayanti,बुद्ध जयन्ती,1,religious,buddhist
+1,18,Chandi Purnima,चण्डी पूर्णिमा,0,religious,hindu
+1,18,International Workers Day,अन्तर्राष्ट्रिय श्रमिक दिवस,1,international,international
+1,18,Ubhauli Parva,उभौली पर्व,1,festival,kirat
+1,20,World Press Freedom Day,विश्व पत्रकारिता स्वतन्त्रता दिवस,0,international,international
+1,22,Mangal Chaturthi,मङ्गल चतुर्थी,0,cultural,hindu
+1,25,World Red Cross Day,विश्व रेडक्रस दिवस,0,international,international
+1,29,International Nurses Day,अन्तर्राष्ट्रिय नर्स दिवस,0,international,international
+1,30,Apara Ekadashi,अपरा एकादशी,0,cultural,hindu
+2,1,International Day of Families,अन्तर्राष्ट्रिय पारिवारिक दिवस,0,international,international
+2,3,AdhikMas Aarambha,अधिकमास आरम्भ,0,cultural,hindu
+2,3,World Telecommunication Day,विश्व दूरसञ्चार दिवस,0,international,international
+2,12,Ganga Dashara,गङ्गा दशहरा,0,cultural,hindu
+2,13,Padmini Ekadashi,पद्मिनी एकादशी,0,cultural,hindu
+2,14,Eid al-Adha,ईद उल अजहा,1,religious,muslim
+2,15,Republic Day,गणतन्त्र दिवस,1,national,national
+2,17,World No Tobacco Day,विश्व धुम्रपान निषेध दिवस,0,health,international
+2,22,World Environment Day,विश्व वातावरण दिवस,0,environment,international
+2,28,Parama Ekdashi,परमा एकादशी,0,cultural,hindu
+3,1,AdhikMas Samapta,अधिकमास समाप्त,0,cultural,hindu
+3,1,Sombarey Aausi,सोमबारे औंसी,0,cultural,hindu
+3,6,Sithi Nakha,सिठी नखः,0,religious,newar
+3,7,International Day of Yoga,अन्तर्राष्ट्रिय योग दिवस,0,international,international
+3,8,Aastami Brata,अष्टमी व्रत,0,cultural,hindu
+3,11,Nirjala Ekadashi,निर्जला एकादशी,0,religious,hindu
+3,11,Tulasi Bij Ropne Din,तुलसी बिज रोप्ने दिन,0,religious,hindu
+3,15,Ropain Diwas,रोपाईं दिवस,0,agriculture,national
+3,15,Purnima Brata,पूर्णिमा व्रत,0,cultural,hindu
+3,20,World Cooperative Day,अन्तर्राष्ट्रिय सहकारी दिवस,0,international,international
+3,26,Yogini Ekadashi,योगिनी एकादशी,0,religious,hindu
+3,27,World Population Day,विश्व जनसंख्या दिवस,0,international,international
+3,27,Vaishnava Ekadashi Brata,वैष्णव एकादशी व्रत,0,cultural,hindu
+3,29,Bhanu Jayanti,भानु जयन्ती,0,literature,national
+4,1,Shrawan Sankranti,श्रावण सङ्क्रान्ति,0,religious,hindu
+4,9,Harishayani Ekadashi,हरिशयनी एकादशी,0,religious,hindu
+4,9,Tulasi Ropne Din,तुलसी रोप्ने दिन,0,religious,hindu
+4,9,Chaturmas Brata Suru,चातुर्मास व्रत सुरु,0,religious,hindu
+4,13,Guru Purnima,गुरु पूर्णिमा,0,religious,hindu
+4,13,Byas Jayanti,व्यास जयन्ती,0,literature,hindu
+4,15,Kheer Khane Din,खीर खाने दिन,0,religious,hindu
+4,24,Kamika Ekadashi,कामिका एकादशी,0,religious,hindu
+4,24,International Day of the World's Indigenous Peoples,अन्तर्राष्ट्रिय आदिवासी दिवस,0,international,international
+4,26,Gathe Mangal,गथांमुग,0,religious,newar
+4,27,International Youth Day,अन्तर्राष्ट्रिय युवा दिवस,0,international,international
+4,28,Gunla Dharma Arambha,गुँला धर्म आरम्भ,0,cultural,newar
+5,1,Nag Panchami,नाग पञ्चमी,0,religious,hindu
+5,3,World Humanitarian Day,विश्व मानवीय दिवस,0,international,international
+5,7,Putrada Ekadashi,पुत्रदा एकादशी,0,cultural,hindu
+5,11,Purnima Brata,पूर्णिमा व्रत,0,religious,hindu
+5,12,Janai Purnima,जनै पूर्णिमा,1,religious,hindu
+5,12,Kwati Khane Din,क्वाती खाने दिन,0,cultural,newar
+5,12,Raksha Bandhan,रक्षा बन्धन,1,religious,hindu
+5,13,Gai Jatra,गाईजात्रा,1,cultural,newar
+5,14,Ropai Jatra,रोपाईं जात्रा,0,cultural,hindu
+5,16,Mangal Chaturthi,मङ्गल चतुर्थी,0,cultural,hindu
+5,19,Gaura Parva,गौरा पर्व,1,festival,province
+5,19,Krishna Janmashtami,कृष्ण जन्माष्टमी,1,religious,hindu
+5,22,Nijamati Sewa Diwas,निजामती सेवा दिवस,0,national,national
+5,22,Aajja Ekadashi,अजा एकादशी,0,religious,hindu
+5,23,International Literacy Day,अन्तर्राष्ट्रिय शिक्षा दिवस,0,literature,international
+5,23,GenZ Shaheed Diwas,जेनजी शहीद दिवस,1,national,national
+5,26,Kushe Aunsi,कुशे औंसी,0,cultural,hindu
+5,28,Daar Khane Din,दर खाने दिन,0,cultural,hindu
+5,29,Haritalika Teej,हरितालिका तीज,1,religious,hindu
+5,29,Ganesh Chaturthi,गणेश चतुर्थी,0,religious,hindu
+5,29,Children's Day,बाल दिवस,0,national,national
+5,30,Mangal Chaturthi,मङ्गल चतुर्थी,0,cultural,hindu
+5,30,Rishi Panchami,ऋषि पञ्चमी,0,religious,hindu
+6,1,Vishwakarma Puja,विश्वकर्मा पूजा,0,religious,hindu
+6,3,Constitution Day,संविधान दिवस,1,national,national
+6,6,Haripariwartani Ekadashi,हरिपरिवर्तनी एकादशी,0,cultural,hindu
+6,9,Indra Jatra,इन्द्रजात्रा,1,cultural,newar
+6,11,Sorha Shraddha Arambha (Pratipada Shraddha),सोह्र श्राद्ध आरम्भ (प्रतिपदा श्राद्ध),0,religious,hindu
+6,11,World Tourism Day,विश्व पर्यटन दिवस,0,international,international
+6,12,Dwitiya Shraddha,द्वितीया श्राद्ध,0,religious,hindu
+6,13,Tritiya Shraddha,तृतीया श्राद्ध,0,religious,hindu
+6,14,Chaturthi Shraddha,चतुर्थी श्राद्ध,0,religious,hindu
+6,15,Panchami/Shashthi Shraddha,पञ्चमी/षष्ठी श्राद्ध,0,religious,hindu
+6,16,Saptami Shraddha,सप्तमी श्राद्ध,0,religious,hindu
+6,17,Ashtami Shraddha,अष्टमी श्राद्ध,0,religious,hindu
+6,18,Jitiya Parwa,जितिया पर्व,1,religious,madhesh
+6,19,World Teachers Day,विश्व शिक्षक दिवस,0,education,international
+6,18,Navami Shraddha,नवमी श्राद्ध,0,religious,hindu
+6,19,Dashami Shraddha,दशमी श्राद्ध,0,religious,hindu
+6,20,Ekadashi Shraddha,एकादशी श्राद्ध,0,religious,hindu
+6,21,Dwadashi Shraddha,द्वादशी श्राद्ध,0,religious,hindu
+6,22,Trayodashi Shraddha,त्रयोदशी श्राद्ध,0,religious,hindu
+6,23,Chaturdashi Shraddha,चतुर्दशी श्राद्ध,0,religious,hindu
+6,24,Aunsi Shraddha (Sarva Pitri Amavasya Shraddha),औँसी श्राद्ध (सर्वपितृ औँसी श्राद्ध),0,religious,hindu
+6,24,Pitri Bisarjan Aunsi,पितृ विसर्जन औंसी,0,religious,hindu
+6,24,World Mental Health Day,विश्व मानसिक स्वास्थ्य दिवस,0,health,international
+6,25,Ghatasthapana,घटस्थापना,1,religious,hindu
+6,31,Phulpati,फूलपाती,1,religious,hindu
+7,1,Maha Ashtami,महाअष्टमी,1,religious,hindu
+7,3,Maha Navami,महानवमी,1,religious,hindu
+7,4,Vijaya Dashami,विजया दशमी,1,religious,hindu
+7,5,Pampakusha Ekadashi,पापांकुशा एकादशी,0,religious,hindu
+7,7,United Nations Day,संयुक्त राष्ट्र संघ दिवस,0,international,international
+7,8,Kojagrat Purnima,कोजाग्रत पूर्णिमा,0,religious,hindu
+7,16,Gorakhkali Puja,गोरखकाली पूजा,0,religious,hindu
+7,19,Rama Ekadashi,रमा एकादशी,0,religious,hindu
+7,21,Kag Tihar,काग तिहार,0,religious,hindu
+7,21,Dhanwantari Jayanti,धन्वन्तरि जयन्ती,0,religious,hindu
+7,22,Kukur Tihar,कुकुर तिहार,0,religious,hindu
+7,22,Laxmi Puja,लक्ष्मी पूजा,1,religious,hindu
+7,23,Gai Puja,गाई पूजा,0,religious,hindu
+7,23,Gai Tihar,गाई तिहार,1,religious,hindu
+7,23,Sombarey Aausi,सोमबारे औंसी,0,religious,hindu
+7,24,Nepal Sambat New Year 1147,नेपाल सम्वत नयाँ वर्ष (११४७),1,cultural,newar
+7,24,Mha Puja,म्ह पूजा,1,cultural,newar
+7,24,Gobardhan Puja,गोवर्धन पूजा,1,religious,hindu
+7,25,Bhai Tika,भाइ टीका,1,religious,hindu
+7,25,Falgunanda Jayanti,फाल्गुनन्द जयन्ती,1,religious,kirat
+7,25,Kija Puja,किजा पूजा,1,religious,newar
+7,29,Chhath Parwa,छठ पर्व,1,religious,madhesh
+8,4,Haribodhini Ekadashi,हरिबोधिनी एकादशी,0,religious,hindu
+8,4,Tulasi Bibaha,तुलसी विवाह,0,religious,hindu
+8,7,Baikuntha Chaturdashi,बैकुण्ठ चतुर्दशी,0,religious,hindu
+8,8,Chaturmas Brata Samapta,चातुर्मास व्रत समापन,0,religious,hindu
+8,17,International Day of Disabled Persons,अन्तर्राष्ट्रिय अपाङ्ग दिवस,0,other,international
+8,18,Utpatika Ekadashi,उत्पत्तिका एकादशी,0,religious,hindu
+8,19,International Volunteer Day,अन्तर्राष्ट्रिय स्वयंसेवक दिवस,0,international,international
+8,21,Bala Chaturdashi (Satbij Chharne),बालाचतुर्दशी (सतबीज छर्ने),0,religious,hindu
+8,25,Human Rights Day,मानव अधिकार दिवस,0,international,international
+8,28,Vivaha Panchami,विवाह पञ्चमी,0,religious,hindu
+9,3,International Migrants Day,अन्तर्राष्ट्रिय आप्रवासी दिवस,0,international,international
+9,9,Dhanya Purnima,धान्य पूर्णिमा,1,religious,newar
+9,9,Udhauli Parva,उधौली पर्व,1,festival,kirat
+9,9,Yomari Punhi,योमरी पुन्ही,1,cultural,newar
+9,10,Christmas,क्रिसमस,1,religious,christian
+9,15,Tamu Lhosar,तमु ल्होसार,1,cultural,buddhist
+9,15,Lekhnath Jayanti,लेखनाथ जयन्ती,0,national,national
+9,19,Safala Ekadashi,सफला एकादशी,0,cultural,hindu
+9,24,Tol Lhosar,तोल् ल्होसार,0,cultural,buddhist
+9,27,Prithvi Jayanti,पृथ्वी जयन्ती,1,national,national
+9,27,Rastriya Ekata Diwas,राष्ट्रिय एकता दिवस,0,national,national
+9,28,Mangal Chaturthi,मङ्गल चतुर्थी,0,cultural,hindu
+10,1,Maghe Sankranti,माघे सङ्क्रान्ति,1,religious,national
+10,1,Maghi,माघी,1,cultural,madhesh
+10,4,Putrada Ekadashi,पुत्रदा एकादशी,0,cultural,hindu
+10,5,Vaishnava Putrada Ekadashi Brata,वैष्णव पुत्रदा एकादशी व्रत,0,cultural,hindu
+10,8,Shree Swasthani Vrat Arambha,श्री स्वस्थानी व्रत आरम्भ,0,religious,hindu
+10,12,Mangal Chaturthi,मङ्गल चतुर्थी,0,cultural,hindu
+10,16,Martyrs Day,शहीद दिवस,1,national,national
+10,19,Shattila Ekadashi,षट्तिला एकादशी,0,cultural,hindu
+10,19,World Wetlands Day,विश्व सिमसार दिवस,0,environment,international
+10,21,World Cancer Day,विश्व क्यान्सर दिवस,0,health,international
+10,22,Gandaki Pradesh Sthapana Diwas,गण्डकी प्रदेश स्थापना दिवस,1,national,province
+10,24,Sonam Lhosar,सोनाम ल्होसार,1,cultural,buddhist
+10,28,Basant Panchami,वसन्त पञ्चमी,0,religious,hindu
+10,28,Saraswati Puja,सरस्वती पूजा,0,religious,hindu
+11,1,World Radio Day,विश्व रेडियो दिवस,0,international,international
+11,5,Bhima Ekadashi,भीम एकादशी,0,cultural,hindu
+11,7,Prajatantra Diwas,राष्ट्रिय प्रजातन्त्र दिवस,1,national,national
+11,8,Shree Swasthani Vrat Samapta,श्री स्वस्थानी व्रत समापन,0,cultural,hindu
+11,8,Purnima Brata,पूर्णिमा व्रत,0,cultural,hindu
+11,9,International Mother Language Day,अन्तर्राष्ट्रिय मातृभाषा दिवस,0,education,international
+11,19,World Wildlife Day,विश्व वन्यजन्तु दिवस,0,environment,international
+11,20,Bijaya Ekadashi,विजया एकादशी,0,cultural,hindu
+11,22,Maha Shivaratri,महाशिवरात्रि,1,religious,hindu
+11,24,International Womens Day,अन्तर्राष्ट्रिय महिला दिवस,1,international,international
+11,25,Gyalpo Lhosar,ग्याल्पो ल्होसार,1,cultural,buddhist
+12,1,World Consumer Rights Day,विश्व उपभोक्ता अधिकार दिवस,0,other,international
+12,4,Amalki Ekadashi,आमलकी एकादशी,0,cultural,hindu
+12,7,International Day of Forests,अन्तर्राष्ट्रिय वन दिवस,0,environment,international
+12,7,Holi (Pahad),होली (पहाड),1,religious,hindu
+12,8,Fagu Purnima,फागु पूर्णिमा,1,religious,hindu
+12,8,Holi (Terai),होली (तराई),1,religious,hindu
+12,8,World Water Day,विश्व पानी दिवस,0,environment,international
+12,19,Papmochani Ekadashi,पापमोचनी एकादशी,0,religious,hindu
+12,20,National Sahakari Diwas,राष्ट्रिय सहकारी दिवस,0,national,national
+12,23,Ghode Jatra,घोडेजात्रा,1,cultural,newar
+12,24,World Health Day,विश्व स्वास्थ्य दिवस,0,health,international

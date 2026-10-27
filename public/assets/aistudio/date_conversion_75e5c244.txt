@@ -1,0 +1,32 @@
+year: 2083
+epochGregorian: "2026-04-14"
+monthDays:
+  baisakh: 31
+  jestha: 31
+  ashadh: 32
+  shrawan: 31
+  bhadra: 31
+  ashwin: 31
+  kartik: 30
+  mangsir: 29
+  poush: 30
+  magh: 29
+  falgun: 30
+  chaitra: 30
+
+
+year: 2082
+epochGregorian: "2025-04-14"
+monthDays:
+  baisakh: 31
+  jestha: 31
+  ashadh: 32
+  shrawan: 31
+  bhadra: 31
+  ashwin: 31
+  kartik: 30
+  mangsir: 29
+  poush: 30
+  magh: 29
+  falgun: 30
+  chaitra: 30
