@@ -33,8 +33,12 @@ Internet connection for initial dependency downloads
 Steps
 
 npm install
+
 npm run build
+
 npx cap add android
+
 npx cap sync android
+
 npx cap open android
 
